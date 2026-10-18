@@ -1,0 +1,9 @@
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+pillow>=10.0
+pyglet==1.5.31
+jupyter>=1.0
+matplotlib>=3.7
+seaborn>=0.12
+# geoplotlib==0.3.2 (install from source; see README for the use_2to3 note)
